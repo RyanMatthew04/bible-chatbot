@@ -1,0 +1,8 @@
+faiss-cpu==1.10.0
+huggingface-hub==0.28.1
+langchain==0.3.17
+langchain-community==0.3.16
+langchain-core==0.3.33
+pandas==2.2.3
+streamlit==1.42.0
+
