@@ -4,5 +4,5 @@ langchain==0.3.17
 langchain-community==0.3.16
 langchain-core==0.3.33
 pandas==2.2.3
+sentence-transformers==3.4.1
 streamlit==1.42.0
-
